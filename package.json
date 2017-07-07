@@ -1,11 +1,11 @@
 {
-    "name": "openshift-ghost-quickstart",
-    "description" : "Openshift Ghost Quickstart (SQLite)",
+    "name": "openshift-ghost-starter",
+    "description" : "Openshift Ghost Starter",
     "repository": {
         "type": "git",
-        "url": "git://github.com/openshift-quickstart/openshift-ghost-quickstart.git"
+        "url": "git://github.com/norsasono/openshift-ghost-starter.git"
     },
-    "bugs": "https://github.com/openshift-quickstart/openshift-ghost-quickstart/issues",
+    "bugs": "https://github.com/norsasono/openshift-ghost-starter/issues",
     "main": "index.js",
     "scripts": {
         "start": "node index"
