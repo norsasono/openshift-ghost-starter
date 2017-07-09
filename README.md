@@ -15,40 +15,8 @@ Don't worry, I actually used Node v.6.9.5 as the default cartridge because the d
 
 ---
 
-Or if you want to use PostgreSQL as your database, you have to edit some lines on `config.js`
-
-Default (mysql)
-```
-database: {
-                client: 'mysql',
-                connection: {
-                    host     : process.env.OPENSHIFT_MYSQL_DB_HOST,
-                    port     : process.env.OPENSHIFT_MYSQL_DB_PORT,
-                    user     : process.env.OPENSHIFT_MYSQL_DB_USERNAME,
-                    password : process.env.OPENSHIFT_MYSQL_DB_PASSWORD,
-                    database : process.env.OPENSHIFT_APP_NAME,
-                    charset  : 'utf8'
-                },
-```
-
-Postgre (postgresql)
-```
-database: {
-                client: 'pg',
-                connection: {
-                    host     : process.env.OPENSHIFT_POSTGRESQL_DB_HOST,
-                    port     : process.env.OPENSHIFT_POSTGRESQL_DB_PORT,
-                    user     : process.env.OPENSHIFT_POSTGRESQL_DB_USERNAME,
-                    password : process.env.OPENSHIFT_POSTGRESQL_DB_PASSWORD,
-                    database : process.env.OPENSHIFT_APP_NAME,
-                    charset  : 'utf8'
-                },
-```
-
----
-
 # Is it possible to be used to deploy Ghost v 1.0.-Beta?
-Possiblly yes, but I haven'tried.
+Possiblly yes, but I haven’t tried. You know that Openshift provides you both Mysql (5.1 and 5.5) and Postgre (8.4 and 9.2), since Ghost doesn’t require the higher version of mysql, it is still possible. But remember, Ghost folks have dropped the support for PostgreSQL. Be wise.
 
 Cheers .. 
 
