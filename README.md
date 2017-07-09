@@ -5,10 +5,9 @@
 
 # How To?
 
-1. Make a new Application using [Node.js 0.10](https://openshift.redhat.com/app/console/application_type/cart!nodejs-0.10)
+1. Make a new Application using [Ghost 0.7.5 Quickstart](https://openshift.redhat.com/app/console/application_type/quickstart!240)
 2. Use this repository as a source.
-3. Activate mysql cartridge.
-4. Done.
+3. Done.
 
 ---
 
