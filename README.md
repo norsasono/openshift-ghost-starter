@@ -1,7 +1,7 @@
-# Environtment
+# Inside This Package
 
 - Nodejs v.6.9.5 (Recomended from Ghost)
-- Ghost 0.11.10
+- Ghost 0.11.10 (Latest stabel version)
 
 # How To?
 
@@ -48,7 +48,7 @@ database: {
 
 ---
 
-# Is it possible to be used to install Ghost v 1.0.-Beta
-Possiblly yes, but I haven'tried. Please try it by yourself.
+# Is it possible to be used to deploy Ghost v 1.0.-Beta in the future?
+Possiblly yes, but I haven'tried.
 
 Cheers .. 
