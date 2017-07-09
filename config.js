@@ -195,4 +195,3 @@ if (process.env.OPENSHIFT_MYSQL_DB_HOST != undefined) {
 
 // Export config
 module.exports = config;
-
