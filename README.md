@@ -1,7 +1,7 @@
 # Inside This Package
 
 - Nodejs v.6.9.5 (Recomended from Ghost)
-- Ghost 0.11.10 (Latest stabel version)
+- Ghost 0.11.10 (Latest stable version)
 
 # How To?
 
