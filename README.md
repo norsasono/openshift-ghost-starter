@@ -1,14 +1,13 @@
-# Environtment
+# Inside This Package
 
 - Nodejs v.6.9.5 (Recomended from Ghost)
-- Ghost 0.11.10
+- Ghost 0.11.10 (Latest stable version)
 
 # How To?
 
-1. Make a new Application using [Node.js 0.10](https://openshift.redhat.com/app/console/application_type/cart!nodejs-0.10)
+1. Make a new Application using [Ghost 0.7.5 Quickstart](https://openshift.redhat.com/app/console/application_type/quickstart!240)
 2. Use this repository as a source.
-3. Activate mysql cartridge.
-4. Done.
+3. Done.
 
 ---
 
@@ -48,7 +47,8 @@ database: {
 
 ---
 
-# Is it possible to be used to install Ghost v 1.0.-Beta
-Possiblly yes, but I haven'tried. Please try it by yourself.
+# Is it possible to be used to deploy Ghost v 1.0.-Beta?
+Possiblly yes, but I haven'tried.
 
 Cheers .. 
+
