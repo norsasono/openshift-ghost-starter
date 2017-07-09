@@ -48,7 +48,7 @@ database: {
 
 ---
 
-# Is it possible to be used to deploy Ghost v 1.0.-Beta in the future?
+# Is it possible to be used to deploy Ghost v 1.0.-Beta?
 Possiblly yes, but I haven'tried.
 
 Cheers .. 
