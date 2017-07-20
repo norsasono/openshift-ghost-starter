@@ -1,7 +1,7 @@
 # Inside This Package
 
 - Nodejs v.6.9.5 (Recomended from Ghost)
-- Ghost 0.11.10 (Latest stable version)
+- Ghost 0.11.11 (Latest stable version)
 
 # How To?
 
@@ -11,7 +11,7 @@
 
 ---
 
-Don't worry, I actually used Node v.6.9.5 as the default cartridge because the default Node.js version from Openshift-Ghost-Quickstart is 0.10.** and no longger suppported for the recent Ghost version.
+Don't worry, I actually use Node v.6.9.5 as the default cartridge because the default Node.js version from Openshift-Ghost-Quickstart is 0.10.** and no longger suppported for the recent Ghost version.
 
 ---
 
